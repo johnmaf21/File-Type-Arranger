@@ -1,0 +1,2 @@
+# File-Type-Arranger
+Once called this script creates 4 folders (if they don’t already exist in below the chosen directory). They are called Documents, Media, Textfiles and other. These are created as all the files inside the directory will be sorted into these folders/categories. This script only takes in one argument and this will be an existing directory. Therefore, to use it you call the script and the directory name. For example: filetypearranger.bash directoryname e.g. filetypearranger.bash testfolder
